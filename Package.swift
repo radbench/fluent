@@ -1,7 +1,7 @@
 // swift-tools-version:5.2
 import PackageDescription
 
-//VS
+//VS2
 let package = Package(
     name: "fluent",
     platforms: [
